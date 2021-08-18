@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Commands
+ * rails server
+ * bundle exec rspec
+
